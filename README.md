@@ -54,6 +54,19 @@ The website is designed with a modern user interface and responsive layout for b
 
 ---
 
+## Screenshots
+
+### Home Section
+![Home Screenshot](home.png)
+
+### Skills Section
+![Skills Screenshot](skills.png)
+
+### Projects Section
+![Projects Screenshot](projects.png)
+
+---
+
 ## Live Website
 https://sathvika2007.github.io/portfolio-website/
 
